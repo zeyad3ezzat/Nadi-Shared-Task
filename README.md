@@ -1,7 +1,7 @@
 # Arabic Dialect Identification Using BERT Fine-Tuning
 Team MMZ Submission for Nadi Shared Task @ COLING'2020 :The 28th International Conference on computational linguistic 
 
-_If you use any of these models in your work, please cite this paper:_
+_If you use any of these ideas in your work, please cite our paper:_
 
 
 ```
